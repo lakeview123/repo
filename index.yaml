@@ -8,6 +8,6 @@ entries:
     name: social-distancing invalid
     type: application
     urls:
-    - https://github.com/aditya22-intel/invalid-repo/blob/master/social-distancing-retail-invalid.tgz
+    - https://github.com/aditya22-intel/invalid-repo/raw/master/social-distancing-retail-0.1.0.tgz
     version: "1.0.0"
 generated: "2021-05-26T14:59:11.656550034-04:00"
